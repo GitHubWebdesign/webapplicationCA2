@@ -1,0 +1,15 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: pink;
+}
+
+#app {
+    text-align: center;
+    padding: 20px;
+}
+
+#country-info {
+    margin-top: 20px;
+}
